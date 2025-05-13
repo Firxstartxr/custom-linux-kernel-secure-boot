@@ -34,7 +34,7 @@ sudo reboot
 ```
 
 During the reboot, hit escape to enter UEFI menu. Navigate to "Device Manager", then "Secure Boot Configuration" and disable  the Secure Boot as shown in the screenshot. 
-![](image.png) 
+![](images/image.png) 
 
 Reboot the machine and verify that you are using your custom kernel:
 ```bash
